@@ -31,8 +31,7 @@ const Content = ()=>{
           <CardActionArea>
             <CardMedia
               className={classes.media}
-              image={img}
-              
+              image={img}          
             />
             <CardContent>
               <Typography gutterBottom variant="h5" component="h2">
